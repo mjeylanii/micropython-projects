@@ -1,0 +1,2 @@
+SSID = "SOMALI TELEKOM"
+PWD = "popmoney187"
